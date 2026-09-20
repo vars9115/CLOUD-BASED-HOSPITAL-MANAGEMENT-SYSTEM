@@ -1,0 +1,2 @@
+# CLOUD-BASED-HOSPITAL-MANAGEMENT-SYSTEM
+CLOUD-BASED HOSPITAL MANAGEMENT SYSTEM is a web-based application developed using Flask, HTML, CSS, and JavaScript. It helps manage hospital operations such as patient records, doctor details, appointments, and hospital information. The system provides a simple, user-friendly interface that improves data organization and makes hospital management easier and more efficient.
